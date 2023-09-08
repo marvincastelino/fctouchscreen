@@ -302,6 +302,7 @@
 @media screen and (min-width: 1401px) {
   .container {
     width: 1401px;
+    padding: 10px;
   }
 }
 @media screen and (max-width: 992px) {
